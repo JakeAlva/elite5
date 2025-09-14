@@ -1,0 +1,1 @@
+const b=document.getElementById('mobileMenuBtn');const m=document.getElementById('mobileMenu');if(b&&m){b.onclick=()=>m.classList.toggle('hidden');}
